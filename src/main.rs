@@ -103,7 +103,7 @@ impl SimpleComponent for App {
                 start_at: 0,
                 clockwise: false,
                 value: 46.,
-                label: Some("46% couter clockwise".to_string()),
+                label: Some("46% counter clockwise".to_string()),
                 background_color: Color::from_hex_string("#555657").unwrap(),
                 percentage_color: Color::from_hex_string("#008423").unwrap(),
             })
